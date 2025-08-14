@@ -3,26 +3,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yahya </h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst & BI Developert</h3>
 
 <!-- IMAGE ON THE RIGHT SIDE -->
 <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/10/2.gif" alt="Coding Animation" width="300" align="right" style="margin-left:20px;" />
 
-- 🌱 I’m currently learning **Financial Modelling**  
-- 👨‍💻 All of my projects are available at [https://yahya-kq.odoo.com/](https://yahya-kq.odoo.com/)  
-- 💬 Ask me about **any ideas you'd like to discuss**  
-- 📫 Reach me at: **yahyaqureshi012@gmail.com**  
-- 📄 Know about my experiences: [Google Drive](https://drive.google.com/file/d/1RakYpzLvx0uqXh8CAtDOBSerUGtX7MUB/view?usp=sharing)
+  **Always exploring new ways to make data tell its story**.
+ - 📫 Reach me at: yahyaqureshi012@gmail.com  
+ - 📂 Portfolio: [yahya-kq.odoo.com](https://yahya-kq.odoo.com/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yahya-qureshi012" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_yahya.qureshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
