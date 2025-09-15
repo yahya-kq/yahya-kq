@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yahya </h1>
+<h1 align="center">Hi 👋, I'm Yahya Khan </h1>
 <h3 align="center">Data Analyst & BI Developert</h3>
 
 <!-- IMAGE ON THE RIGHT SIDE -->
