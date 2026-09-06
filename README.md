@@ -35,5 +35,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahya-kq&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-kq&" alt="GitHub Streak" /></p>
