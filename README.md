@@ -14,7 +14,7 @@
 **Always exploring new ways to make data tell its story**.
 
 - 📫 Reach me at: yahyaqureshi012@gmail.com  
-- 📂 Portfolio: [yahya-kq.odoo.com](https://yahya-kq.odoo.com/)
+- 📂 Portfolio: [Yahya.The Analyst](https://yahyatheanalyst.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
