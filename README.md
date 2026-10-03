@@ -5,7 +5,7 @@
        style="max-width: 800px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yahya Khan </h1>
+<h1 align="center">Hi 👋, I'm Yahya </h1>
 <h3 align="center"> Financial Analyst · Data & Business Intelligence </h3>
 
 <!-- IMAGE ON THE RIGHT SIDE -->
