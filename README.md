@@ -11,7 +11,7 @@
 <!-- IMAGE ON THE RIGHT SIDE -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="300" align="right" style="margin-left:20px;" />
 
-**Always exploring new ways to make data tell its story**.
+**I am a Financial Analyst with deep expertise in financial modeling, data analytics, and business intelligence. I build financial products and reporting systems for data-driven decisions.**.
 
 - 📫 Reach me at: yahyaqureshi012@gmail.com  
 - 📂 Portfolio: [Yahya.The Analyst](https://yahyatheanalyst.vercel.app/)
